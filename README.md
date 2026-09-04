@@ -8,7 +8,7 @@ Desenvolvimento de um painel analítico executivo e operacional em **Power BI** 
 
 ---
 
-![Preview do Dashboard](dashboard-preview.png.jpeg)
+![Preview do Dashboard](dashboard-preview.png.jpeg.jpeg)
 
 ### 🎯 1. O Desafio (Situação-Problema)
 
